@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "430845908821",
+    "firebase_url": "https://fci-app-36b5b.firebaseio.com",
+    "project_id": "fci-app-36b5b",
+    "storage_bucket": "fci-app-36b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430845908821:android:932b009ed8b12f75ec81dc",
+        "android_client_info": {
+          "package_name": "com.mo.essam.fci_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430845908821-n484facqd4sgv9fhqe56d66co6agubnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAZsOmGHY5v-gqCM_uO-vybBPUJxn8qRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430845908821-n484facqd4sgv9fhqe56d66co6agubnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
